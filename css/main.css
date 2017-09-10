@@ -98,7 +98,10 @@ textarea {
    ========================================================================== */
 
 
-
+.genText {<!--this is my first css class -->
+    text-align: center;
+    background-color: lightblue;
+}
 
 
 
